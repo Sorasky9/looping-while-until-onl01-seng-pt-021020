@@ -1,9 +1,10 @@
 require 'pry'
 def using_while
   binding.pry
-  looping_string = "Wingardium Leviosa"
+   Wingardium Leviosa < 6
+   Wingardium Leviosa += 1
   while
-    puts "#{looping_string}"
+    puts "Wingardium Leviosa"
   #your code here
 end
 end
