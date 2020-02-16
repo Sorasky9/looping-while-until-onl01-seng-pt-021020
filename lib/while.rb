@@ -1,9 +1,8 @@
 require 'pry'
 def using_while
-  binding.pry 
+  binding.pry
   looping_string = "Wingardium Leviosa"
-  while levitation_force < 10
-    levitation_force += 1
+  while
     puts "#{looping_string}"
   #your code here
 end
